@@ -8,3 +8,9 @@ header {
   color: white;
   padding: 18px;
 }
+#contacto {
+  margin-top: 25px;
+  padding: 16px;
+  background: #EAF2F8;
+  border-left: 4px solid #168C8C;
+}
